@@ -26,8 +26,8 @@ function criaPrimeiraFrase(num1, num2) {
 
 function criaSegundaFrase(num1, num2) {
 	const soma = num1 + num2;
-	let comparaDez = 'menor';
-	let comparaVinte = 'menor';
+	let comparaDez = 'menor que';
+	let comparaVinte = 'menor que';
 
 	if (soma > 10) {
 		comparaDez = 'maior que';
