@@ -16,4 +16,4 @@ Output: Os números 1 e 2 não são iguais. Sua soma é 3, que é menor que 10 e
 
 Foi realizado a atividade proposta em javascript e utlizado o comando 'alert()' para informar a mensagem no navegador
 
-Link: https://github.com/Willian-Renan/Sintaxe-e-operadores
+Link: https://willian-renan.github.io/Sintaxe-e-operadores/
